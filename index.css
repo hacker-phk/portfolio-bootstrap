@@ -1,0 +1,27 @@
+.custom-text-color,.lead {
+    color: white;
+}
+.top-header{
+    background-color: #124076;
+    
+}
+.top-header>div{
+    color: whitesmoke;
+}
+.top-header .navbar-nav .nav-link,
+    .top-header .navbar-brand {
+        color: white;
+    }
+.education,.internships{
+    color:#31363F;
+}
+.btn-success a {
+    color: white !important;
+    text-decoration: none !important;
+}
+.my-details{
+    background-color:  #1d2a35;
+}
+
+
+    
